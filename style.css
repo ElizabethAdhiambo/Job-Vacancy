@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-image: url(./hiring5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+}
+.biggy{
+    display: flex;
+    align-items: center;
+    
+}
+h2{
+    color: goldenrod;
+    padding-left: 300px;
+}
+h6{
+    color: blue;
+}
+h1{
+    color: green;
+}
+h3{
+    color: palevioletred;
+}
+li{
+    color: palevioletred;
+}
+.small{
+    color: green;
+}
